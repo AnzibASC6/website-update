@@ -1,0 +1,100 @@
+body{
+    background:RGB(240,240,240) ;
+    margin: 0px;
+}
+header{  
+    text-align: center;
+    font-family: Trattatello, fantasy;
+    font-size: 25px;
+    background:#1261A0;
+    /* border:solid 5px black; */
+    position: fixed; /* Set the navbar to fixed position */
+    top: 0; /* Position the navbar at the top of the page */
+    width: 100%; /* Full width */
+}
+.Anzib{
+    color: white;
+    text-align: center;
+    width: auto;
+    margin-left: 35%;
+    margin-right: 35%;
+    border-top: 0px;
+}
+.topnav {
+    background-color: white;
+    overflow: auto;
+    text-align: center;
+    width: 100%;
+    font-size: 25px;
+}
+.topnav > a{
+    text-decoration: none;
+    color:#1261A0;
+    width: 25%;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+#myimage1{
+  background-image: url("https://wallpaperfm.com/img/original/5/7/c/49379.jpg");
+  min-height: 600px; 
+  background-attachment: fixed;
+  background-position: center top;
+  background-repeat: no-repeat;
+  background-size: cover;
+ 
+}
+a:hover{
+    background:aqua;
+    font-size:40px;
+    transition: all 500ms;
+    font-size-adjust: 20px;
+    text-shadow: 2px 2px 4px green;
+    
+}
+.text{
+    margin-top: 10px;
+   background-color:#1261A0;
+    border-color:#1261A0;
+    text-align: center;
+    color: white ; 
+    margin-top: 30px;
+    margin-right: 60px;
+    margin-left: 65px;
+    max-height: 800px;  
+    font-size: 17px;
+    max-width: 1250px;
+}
+.watch_description{
+    text-align: justify;
+    margin-right:10px;
+} 
+#resume{
+    margin-top: 0px;
+    font-size: 40px;
+    border-bottom:solid 3px white;
+    margin-bottom: 0px;
+}
+.skills{
+    text-align:left;
+    border-bottom:solid 3px white;
+    margin-top: 0px;
+    margin-bottom: 0px
+}
+#skill{
+    border-bottom:solid 3px white;
+    text-align: left;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+h2{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+p{
+    margin-top: 0px
+}
+div{
+    margin-top: 0px;
+}
+
